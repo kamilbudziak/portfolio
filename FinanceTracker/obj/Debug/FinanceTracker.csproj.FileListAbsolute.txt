@@ -1,0 +1,11 @@
+C:\Users\Kamil\source\repos\FinanceTracker\bin\Debug\FinanceTracker.exe
+C:\Users\Kamil\source\repos\FinanceTracker\bin\Debug\FinanceTracker.pdb
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.Properties.Resources.resources
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.csproj.GenerateResource.cache
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.exe
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.pdb
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.MainForm.resources
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.LimitForm.resources
+C:\Users\Kamil\source\repos\FinanceTracker\obj\Debug\FinanceTracker.PreviewForm.resources
